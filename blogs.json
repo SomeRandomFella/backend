@@ -3,6 +3,7 @@
     "title": "nas daily",
     "date": "June 26th 2025",
     "description": "wtf happend to nas daily havent seen that guy in ages, heard he got in controversies (yes idk how to spell).",
+    "fullContent": "wtf happend to nas daily havent seen that guy in ages, heard he got in controversies (yes idk how to spell). welp this blog post is just a filler so not much content",
     "author": "sexy2",
     "redirect": "useless",
     "id": 2
@@ -11,6 +12,7 @@
     "title": "first blog!!11",
     "date": "June 26th 2025",
     "description": "This is my first blog post. on this shit site that I made like I mean I was gonna add a custom page for each blog so u can view it in detail buttttt... i need a backend for that.",
+    "fullContent": "This is my first blog post. on this shit site that I made like I mean I was gonna add a custom page for each blog so u can view it in detail buttttt... i need a backend for that. BUT i could use local storage or jsons but js and css is a pain in the ass and frameworks do a shit job at solving it",
     "author": "sexy",
     "redirect": "first",
     "id": 1
